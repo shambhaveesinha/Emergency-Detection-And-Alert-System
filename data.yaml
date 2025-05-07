@@ -1,0 +1,13 @@
+train: D:\YoloV8 Model\Object Detection.v1i.yolov8\train\images
+val: D:\YoloV8 Model\Object Detection.v1i.yolov8\valid\images
+
+
+nc: 20
+names: ['Damaged car', 'auto', 'bike', 'car', 'collision', 'cycle', 'fire', 'fire truck', 'helmet', 'house', 'no helmet', 'nosafety jacket', 'safety helmet', 'safety jacket', 'smoke', 'tanker', 'truck', 'van', 'victim', 'wheel']
+
+roboflow:
+  workspace: object-detection-btcm6
+  project: object-detection-xl4xx
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/object-detection-btcm6/object-detection-xl4xx/dataset/1
