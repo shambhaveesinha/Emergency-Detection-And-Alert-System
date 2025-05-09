@@ -1,5 +1,5 @@
-train: D:\YoloV8 Model\Object Detection.v1i.yolov8\train\images
-val: D:\YoloV8 Model\Object Detection.v1i.yolov8\valid\images
+train: D:\Project\final-yr-model\train\images
+val: D:\Project\final-yr-model\valid\images
 
 
 nc: 20
